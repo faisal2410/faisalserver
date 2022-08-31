@@ -1,0 +1,4 @@
+heroku	https://git.heroku.com/hidden-brushlands-96834.git (fetch)
+heroku	https://git.heroku.com/hidden-brushlands-96834.git (push)
+origin	https://github.com/faisal2410/faisalserver.git (fetch)
+origin	https://github.com/faisal2410/faisalserver.git (push)
